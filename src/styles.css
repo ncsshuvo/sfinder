@@ -1,0 +1,33 @@
+body {
+  font-family: sans-serif;
+}
+h2 {
+  text-align: center;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 20px;
+}
+h5 {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+textarea,
+input {
+  border: 1px solid #aaa;
+  padding: 5px;
+  width: 90%;
+  max-width: 100%;
+}
+
+p {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  color: #666;
+  font-size: 14px;
+}
+
+.value {
+  font-weight: bold;
+  color: #f40000;
+}
